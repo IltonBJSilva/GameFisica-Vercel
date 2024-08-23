@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/Torneio de fisca.html" }
+  ]
+}
